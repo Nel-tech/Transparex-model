@@ -1,9 +1,9 @@
 {
     "id": "3F6270BB",
-    "path": null,
-    "project_path": null,
+    "path": "/cloud/project/Transparex.Rmd",
+    "project_path": "Transparex.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "221649355",
     "contents": "",
     "dirty": false,
     "created": 1747512397563.0,
@@ -13,15 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
-        "scrollLine": "0"
+        "cursorPosition": "45,32",
+        "scrollLine": "40",
+        "last_setup_crc32": "2e9c1f3dbb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1747511147,
-    "encoding": "",
+    "lastKnownWriteTime": 1747652185,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1747512397563,
+    "last_content_update": 1747652185873,
     "read_only": false,
     "read_only_alternatives": []
 }
